@@ -1,0 +1,19 @@
+# --- React frontend ---
+frontend/node_modules/
+frontend/.env 
+frontend/build/
+
+# --- Python backend ---
+backend/__pycache__/
+backend/venv/
+backend/*.pyc
+backend/.env
+
+# --- System files ---
+.env
+*.pyc
+.DS_Store
+
+# --- IDE and OS ---
+.vscode/
+.idea/
